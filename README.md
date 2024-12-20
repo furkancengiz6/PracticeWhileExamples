@@ -1,5 +1,5 @@
-# Pratik - While Örnekleri
-Bu pratik uygulama 5 aşamadan oluşuyor. Aşağıdaki alıştırmaları #### while #### kullanarak yapınız.
+# Pratik - While Örnekleri Patika+
+Bu pratik uygulama 5 aşamadan oluşuyor. Aşağıdaki alıştırmaları while kullanarak yapınız.
 - Konsol ekranına 10 kere "Kendime inanıyorum, ben bu yazılım işini hallederim!" yazdırınız.
 - 1 ile 20 arasındaki sayıları konsol ekranına yazdırınız.
 - 1 ile 20 arasındaki çift sayıları konsol ekranına yazdırınız.
